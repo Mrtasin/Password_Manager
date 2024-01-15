@@ -5,6 +5,7 @@
 #include<stdlib.h>
 using namespace std;
 
+// Text Color change function
 void red ()     {   cout<<"\033[1;31m";   }
 void yellow()   {   cout<<"\033[1;33m";   }
 void Blue()     {   cout<<"\033[0;34m";   }
