@@ -1,2 +1,3 @@
 # Password_Manager
-Multiple username and password store encrypt way 
+# This app store multiple username and password
+# password store encrypt way 
